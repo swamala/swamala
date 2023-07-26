@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamuelW
-- 👀 I’m interested in #DevSecOPs, #CloudOps, #BlockChain, #Decentralized Knowledge Graph.
-- 🌱 I’m currently learning #AI, #ML, #DKG
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in #DevSecOPs, #SRE, #BlockChain, #Decentralized Knowledge Graph, #Distributed Systems.
+- 🌱 I’m currently learning #AI, #ML, #DKG, #Web3, #Distributed Systems.
+- 💞️ I’m looking to collaborate on #SRE, #Web3, #DKG, #Distributed Systems.
 - 📫 How to reach me ...
 
 <!---
