@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Samuel Wamala
 
 **SRE / DevSecOps • Web3 Infrastructure Engineer**
-Currently building decentralized knowledge infrastructure at **Trace Labs (OriginTrail)**.
-
+Senior Platform / DevOps Engineer | Web3 systems engineer |Distributed Systems | Kubernetes & AWS | Reliability & Automation.
 I design, secure, and operate **large-scale distributed systems** across cloud and blockchain environments, with a focus on reliability, automation, and security by default.
 
 ---
