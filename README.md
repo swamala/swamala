@@ -1,48 +1,67 @@
 # 👋 Hi, I'm Samuel Wamala
 
-**SRE / DevSecOps • Web3 Infrastructure Engineer**
-Senior Platform / DevOps Engineer | Web3 systems engineer |Distributed Systems | Kubernetes & AWS | Reliability & Automation.
-I design, secure, and operate **large-scale distributed systems** across cloud and blockchain environments, with a focus on reliability, automation, and security by default.
+**Senior Platform Engineer • SRE • Web3 Infrastructure**
+Kubernetes | Multi-Cloud | Private Cloud & Bare Metal | AI Infrastructure
+
+10+ years designing, securing, and operating production infrastructure: private cloud, multi-cloud, and blockchain systems. Focus on reliability, automation, and security by default.
 
 ---
 
 ## 🧠 What I Work On
 
-* Production SRE & DevSecOps for blockchain and Web3 systems
-* Cloud infrastructure, IaC, and automation
-* Secure networking (VPNs, bastions, P2P-friendly architectures)
-* Observability, incident response, and performance tuning
-* Scaling validators, RPC nodes, and data pipelines
+* Private cloud on bare metal: Proxmox VE HA clusters, networking, and storage
+* Kubernetes platforms, GitOps, and CI/CD
+* Infrastructure as Code and automation across AWS, GCP, and Azure
+* Observability, incident response, and disaster recovery
+* Platform security: VPNs, firewalls, CrowdSec, nftables
+* Multi-chain node/RPC infrastructure and validators (previously)
+* AI infrastructure and developer platforms (current focus)
 
 ---
 
-## 🛠 Core Stack (Focused)
+## 💼 Currently
 
-**Languages**
+**Senior Platform Engineer @ Osela Technologies** (Apr 2026 – present)
+Building and running secure, highly available private cloud for mission-critical enterprise workloads.
 
-* Python, JavaScript/TypeScript, Shell
+**Previously:** Web3 Systems Engineer (SRE/DevOps) @ Trace Labs, DevOps Engineer @ RokPay, SRE @ Experian, SysAdmin @ Uganda Telecom
 
-**Infrastructure & Cloud**
+---
 
+## 🛠 Core Stack
+
+**Infrastructure & Virtualization**
+* Proxmox VE, KVM, Linux (Debian/Ubuntu)
+* ZFS, Ceph, LVM, NVMe storage
+* HAProxy, VLANs, WireGuard, OpenVPN, nftables, CrowdSec
+
+**Cloud & Orchestration**
 * AWS, GCP, Azure, Cloudflare
-* Kubernetes, Docker, Terraform, Ansible
-* NGINX, WireGuard, OpenVPN
-
-**Data & Messaging**
-
-* PostgreSQL, Redis, MongoDB
-* Kafka, RabbitMQ
+* Kubernetes, Docker, Helm, ArgoCD, Linkerd
+* Terraform, Ansible
 
 **CI/CD & Observability**
-
 * GitHub Actions, GitLab CI, Jenkins
-* Prometheus, Grafana, Datadog, ELK
+* Prometheus, Grafana, Loki, ELK, Datadog
+
+**Data**
+* PostgreSQL, Redis, MongoDB, Kafka, RabbitMQ
+
+**Languages**
+* Python, JavaScript/TypeScript, Shell
 
 **Web3**
+* Validator & RPC operations: Ethereum, Base, Solana, Polkadot, Sui, TON, L2s
+* Blockchain data indexing
 
-* Ethereum tooling, Web3.js
-* Validator & RPC operations
-* Decentralized data systems
+---
+
+## 📈 Highlights
+
+* Held 99.9%+ uptime with sub-minute incident detection on latency-sensitive trading services
+* Cut platform regressions by 60% and improved MTTR
+* Cut deployment lead time by 60% with CI/CD automation
+* Saved 30% on cloud costs through capacity planning
 
 ---
 
